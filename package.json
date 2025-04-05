@@ -1,0 +1,31 @@
+{
+  "name": "react18",
+  "version": "1.0.0",
+  "description": "This is my react18 by Mimanshi Tiwari",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimanshi-tiwari/React18.git"
+  },
+  "keywords": [],
+  "author": "Mimanshi Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimanshi-tiwari/React18/issues"
+  },
+  "homepage": "https://github.com/mimanshi-tiwari/React18#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "Last 2 versions"
+  ]
+}
